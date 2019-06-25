@@ -1,4 +1,4 @@
-# Badanie stacjonarnosci sygnalów
+# Badanie stacjonarnosci sygnałów
 Program pozwalający na badanie stacjonarności sygnałów / Program that determines whether a signal is stationary or not
 
 # GUI programu
